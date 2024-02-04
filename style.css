@@ -1,0 +1,439 @@
+.background{
+    background: rgb(232, 232, 232);
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom, #051322,#15457c);
+    background-size: 100% 500px;
+    display: flex;
+    justify-content: center;
+    
+}
+.container{
+ width: 1200px;
+
+}
+.logo{
+   width: 113px;
+   height: 40px;
+   margin-bottom: 60px;
+}
+.data{
+    display:inline-flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.categories{
+    background-color: white;
+    width: 950px;
+    border-width: medium;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: flex;
+    justify-content: center;
+    height: 90px;
+   
+   
+    
+
+}
+.categories span{
+    font-size: 25px;
+
+   
+    padding: 10px;
+    
+    
+}
+b:hover{
+background-color: rgb(105, 249, 218);
+}
+.sub{
+    width: 100%;
+    height: 318px;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: inline-block;
+    justify-content: space-evenly
+;
+   
+}
+
+.insub{
+    width: 10%;
+    height: 10px;
+    background-color: white;
+    
+    border-top-left-radius: 10px;
+    
+   
+    font-size: medium;
+   
+    display: inline-block;
+  
+}
+
+.insub2{
+    width: 97%;
+    height: 40%;
+    margin: 15px 15px 15px 15px;
+    display: inline-block;
+   
+ 
+    justify-content: space-evenly;
+   
+}
+.from{
+    width: 20%;
+    height: 132px;
+    display: inline-block;
+    border: solid  rgb(209, 206, 206);
+    
+   
+    
+}
+.to{
+    width: 20%;
+    height: 132px;
+    display: inline-block;
+    border: solid  rgb(209, 206, 206);
+    
+   
+}
+.dep{
+    width: 20%;
+    height: 132px;
+    display: inline-block;
+    border: solid  rgb(209, 206, 206);
+   
+    
+
+}
+.ret{
+    width: 20%;
+    height: 132px;
+    display: inline-block;
+    border: solid  rgb(209, 206, 206);
+   
+    
+}
+.outsub{
+    width: 98%;
+    height: 50px;
+    background-color: #ffffff;
+    margin: 10px;
+    display: inline-block;
+    justify-content: space-evenly;
+}
+.a2{
+    
+    height: 45px;
+    width: 100%;
+    margin: 10px;
+    background-color: #ffffff;
+    display: inline-block;
+    justify-content: space-evenly;
+}
+.qw1{
+    display: inline-block;
+}
+.a4{
+   
+    
+   
+    font-size: medium;
+   
+    display: inline-block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.insub span{
+    display: inline-block;
+}
+
+.aq{
+   
+    height: 10px;
+    
+    justify-content: space-evenly;
+    
+}
+ .aq2{
+    display: inline-block;
+    
+    text-decoration: solid;
+    border-radius: 1px;
+    border-color: white;
+    margin-right:60px ;
+    font-size: 30px;
+    
+    
+
+
+    
+
+
+}
+.aq1{
+    height: 40px;
+}
+
+.content{
+    padding-bottom: 90px;
+    width: 100%;
+    height: 100px;
+    background-color: none;
+  
+    
+}
+.content2{
+    width: 100%;
+    height: 500px;
+    background-color:white; 
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  
+  
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: inline-block;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly;
+    margin: 15px 15px 15px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: inline-block;
+   
+   
+    
+}
+.box2{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly;
+    margin: 15px 15px 15px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: inline-block;
+}
+
+
+.box3{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly;
+    margin: 15px 15px 15px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: inline-block;
+
+}
+.box4{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly;
+    margin: 15px 15px 15px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: inline-block;
+
+}
+.box5{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly;
+    margin: 15px 15px 15px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: inline-block;
+
+}
+.box6{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly;
+    margin: 15px 15px 15px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px #7a7a7a;
+    display: inline-block;
+}
+
+.box1:hover{
+    width: 31%;
+    box-shadow: 0px 1px 15px #557cfd;
+
+}
+.box2:hover{
+    width: 31%;
+    box-shadow: 0px 1px 15px #557cfd;
+
+}
+.box3:hover{
+    width: 31%;
+    box-shadow: 0px 1px 15px #557cfd;
+
+}
+.box4:hover{
+    width: 31%;
+    box-shadow: 0px 1px 15px #557cfd;
+
+}
+.box5:hover{
+    width: 31%;
+    box-shadow: 0px 1px 15px #557cfd;
+
+}
+.box6:hover{
+    width: 31%;
+    box-shadow: 0px 1px 15px #557cfd;
+
+}
+
+.ima1{
+    padding-bottom: 45px;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+.ima2{
+    padding-bottom: 45px;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+.ima3{
+    
+    padding-bottom: 45px;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+.ima4{
+    
+    padding-bottom: 45px;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+.ima4{
+    
+    padding-bottom: 45px;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+.ima5{
+    
+    padding-bottom: 45px;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+.ima6{
+    
+    padding-bottom: 45px;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+.low{
+    width: 100%;
+    height: 285px;
+    
+}
+.low1{
+    width: 100%;
+    height: 285px;
+    padding-top: 20px;
+    border-radius: 10px;
+    
+}
+    .inbox1{
+    width: 40%;
+    
+    
+    display: flex;
+    justify-content: space-between;
+}
+.aq1 button{
+   
+    font-size: 20px;
+    border: #ffffff;
+}
+
+#a0:hover{
+    background-color: #557cfd;
+    text-decoration: underline ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footerrr{
+    padding-top: 50px;
+    width: 100%;
+    height: 1050px;;
+   
+
+}
+
+.f2{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    
+   
+   
+}
+p{
+   background-color: rgb(209, 206, 206);
+   
+
+}
+#asd{
+    display: cover;
+    width: 100%;
+    height: 180px;
+    border-radius: 2px;
+}
